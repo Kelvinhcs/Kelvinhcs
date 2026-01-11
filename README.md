@@ -53,13 +53,3 @@
 </picture>
 
 ###
-
-<br clear="both">
-
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=See%20my%20projects%20bellow&fontSize=44&fontColor=333551&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
